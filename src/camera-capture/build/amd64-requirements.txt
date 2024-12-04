@@ -13,7 +13,7 @@ opencv-contrib-python
 requests
 trollius
 tornado>=6.1
-grpcio==1.53.0
+grpcio==1.53.2
 grpcio-tools==1.53.0
 kubernetes==19.15.0
 protobuf>=4.22
